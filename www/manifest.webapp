@@ -1,0 +1,20 @@
+{
+  "name": "Certified",
+  "description": "A testing certified app",
+  "version": "1",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "60": "/i/certified60.jpg",
+    "128": "/i/certified128.jpg",
+    "256": "/i/certified256.jpg"
+  },
+  "default_locale": "en",
+  "locales": {
+    "en": {}
+  },
+  "developer": {
+    "name": "Ozten",
+    "url": "https://github.com/ozten/certified-app"
+  }
+}
